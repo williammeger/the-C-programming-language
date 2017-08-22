@@ -1,10 +1,14 @@
+/*
+ * Exercise 1-5
+ * Modify the temperature conversion program to 
+ * print the table in reverse order, that is, from 300 degrees to 0
+ */
+
 #include <stdio.h>
 
 #define LOWER  0    /* lower limit of temperatures */
 #define UPPER 300   /* upper limit */
 #define STEP 20     /* increment degrees */ 
-
-/* prints celcius to farenheit conversion */
 
 main () {
 

@@ -1,6 +1,9 @@
-#include <stdio.h>
+/*
+ * Exercise 1-7
+ * Write a program to print the value of EOF
+ */
 
-/* copies input to output and prints EOF value; V 2.0 */
+#include <stdio.h>
 
 main () {
   
